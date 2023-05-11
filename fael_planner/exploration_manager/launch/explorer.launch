@@ -22,6 +22,6 @@
     </node>
 
     <!-- statistics and data visualization -->
-    <include file="$(find visualization_tools)/launch/visualization_tools.launch"/>
+    <!-- <include file="$(find visualization_tools)/launch/visualization_tools.launch"/> -->
 
 </launch>
