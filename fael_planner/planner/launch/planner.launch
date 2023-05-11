@@ -9,7 +9,7 @@
         <remap from="/explorer_inited" to="/explorer_node/explorer_inited"/>
 
         <!-- UFOMap -->
-        <remap from="point_cloud" to="/jackal/velodyne/velodyne_points"/>
+        <remap from="point_cloud" to="/ouster/points_downsampled"/>
         <remap from="sensor_odometry" to="/sensor_to_world/odometry"/>
 
         <!-- GridMap2D -->
